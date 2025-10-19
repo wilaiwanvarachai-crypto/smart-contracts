@@ -5,7 +5,43 @@ This repository serves as a reference for the World Republic smart contracts. It
 - **Smart Contract Files:**
 
   - `Staking20Base.sol` (modified from thirdweb's [Staking20Base](https://github.com/thirdweb-dev/contracts/blob/389f9456571fe554d7a048d34806cbbe7b3ec909/contracts/base/Staking20Base.sol))
-  - `Staking20.sol` (modified from thirdweb's [Staking20](https://github.com/thirdweb-dev/contracts/blob/389f9456571fe554d7a048d34806cbbe7b3ec909/contracts/extension/Staking20.sol#L4) implementation, used by Staking20Base)
+  - `Staking20.sol` (modified from thirdweb's [Staking20](https://github.com/thirdweb-dev/contracts/blob/389f9456571fe554d7a048d34806
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  cbbe7b3ec909/contracts/extension/Staking20.sol#L4) implementation, used by Staking20Base)
 
 - **Deployment Addresses:**
   - `Staking20Base.sol`: `0x2f08c17b30e6622f8b780fb58835fc0927e2dc8e`
